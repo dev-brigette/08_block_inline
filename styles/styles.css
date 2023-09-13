@@ -1,0 +1,8 @@
+p {
+  border: 2px rgb(68, 203, 162) solid; 
+}
+a {
+  text-decoration: none;
+  border: 2px rgb(97, 124, 3) solid;
+  padding: 2mm;
+}
